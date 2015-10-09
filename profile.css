@@ -1,0 +1,46 @@
+.navbar{
+    background-color: #96AA32;
+}
+#uber {
+    color: #146400;
+            font-weight: bold;
+}
+#nl1{
+    color: #DDF0D8;
+}
+#nl2{
+    color: #DDF0D8;
+}
+#nl3{
+    color: #DDF0D8;
+}
+#nl4{
+    color: #DDF0D8;
+}
+#nl5{
+    color: #DDF0D8;
+}
+#nl6{
+    color: #DDF0D8;
+}
+#nl7{
+    color: #DDF0D8;
+}
+
+#pony {
+    padding: 0 20%;
+}
+#small {
+    padding-top: 4em;
+}
+
+#small div  {
+    text-align: center;
+}
+
+#small h5 {
+    font-weight: bold;
+}
+#table {
+    margin-top: 4em;
+}
